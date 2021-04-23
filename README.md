@@ -2,7 +2,7 @@
 
 
 ## setup
-Test with Python 3.6 and Pytorch 1.6. 
+Tested with Python 3.6 and Pytorch 1.6. 
 
 Several functions are implemented in CUDA using CuPy, which is why CuPy is a required dependency. It can be installed using `pip install cupy` or alternatively using one of the provided [binary packages](https://docs.cupy.dev/en/stable/install.html#installing-cupy) as outlined in the CuPy repository. Please also make sure to have the `CUDA_HOME` environment variable configured.
 
