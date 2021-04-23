@@ -33,7 +33,7 @@ Then run
 python dollyzoom.py'
 ```
 
-## Acknoledgment
+## Acknowledgement
 We borrowed some parts of the the following papers and their implementation for our project
 
 ###Midas
