@@ -36,7 +36,7 @@ python dollyzoom.py'
 ## Acknowledgement
 We borrowed some parts of the the following papers and their implementation for our project
 
-###Midas
+### Midas
 https://github.com/intel-isl/MiDaS
 ```
 @article{Ranftl2020,
@@ -47,7 +47,7 @@ https://github.com/intel-isl/MiDaS
 }
 ```
 
-##3D ken Burns effect from a single image
+### 3D ken Burns effect from a single image
 https://github.com/sniklaus/3d-ken-burns
 ```
 @article{Niklaus_TOG_2019,
@@ -60,7 +60,7 @@ https://github.com/sniklaus/3d-ken-burns
          year = {2019}
      } 
 ```
-##Pix2Pix 
+### Pix2Pix 
 https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix
 ```
 @inproceedings{CycleGAN2017,
@@ -78,7 +78,7 @@ https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix
   year={2017}
 }
 ```
-##MODNet: Is a Green Screen Really Necessary for Real-Time Portrait Matting? 
+### MODNet: Is a Green Screen Really Necessary for Real-Time Portrait Matting? 
 https://github.com/ZHKKKe/MODNet/blob/master/README.md
 ```
 @article{MODNet,
