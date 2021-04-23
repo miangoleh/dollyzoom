@@ -36,7 +36,8 @@ python dollyzoom.py'
 ## Acknoledgment
 We borrowed some parts of the the following papers and their implementation for our project
 
-###Midas https://github.com/intel-isl/MiDaS
+###Midas
+https://github.com/intel-isl/MiDaS
 ```
 @article{Ranftl2020,
 	author    = {Ren\'{e} Ranftl and Katrin Lasinger and David Hafner and Konrad Schindler and Vladlen Koltun},
@@ -46,7 +47,8 @@ We borrowed some parts of the the following papers and their implementation for 
 }
 ```
 
-###3D ken Burns effect from a single image https://github.com/sniklaus/3d-ken-burns
+##3D ken Burns effect from a single image
+https://github.com/sniklaus/3d-ken-burns
 ```
 @article{Niklaus_TOG_2019,
          author = {Simon Niklaus and Long Mai and Jimei Yang and Feng Liu},
@@ -56,9 +58,10 @@ We borrowed some parts of the the following papers and their implementation for 
          number = {6},
          pages = {184:1--184:15},
          year = {2019}
-     }
-     
-###Pix2Pix https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix
+     } 
+```
+##Pix2Pix 
+https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix
 ```
 @inproceedings{CycleGAN2017,
   title={Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networkss},
@@ -75,7 +78,8 @@ We borrowed some parts of the the following papers and their implementation for 
   year={2017}
 }
 ```
-###MODNet: Is a Green Screen Really Necessary for Real-Time Portrait Matting? https://github.com/ZHKKKe/MODNet/blob/master/README.md
+##MODNet: Is a Green Screen Really Necessary for Real-Time Portrait Matting? 
+https://github.com/ZHKKKe/MODNet/blob/master/README.md
 ```
 @article{MODNet,
   author = {Zhanghan Ke and Kaican Li and Yurou Zhou and Qiuhua Wu and Xiangyu Mao and Qiong Yan and Rynson W.H. Lau},
