@@ -38,9 +38,9 @@ getopt.getopt(sys.argv[1:], '', [strParameter[2:] + '=' for strParameter in sys.
 
 ##########################################################
 if __name__ == '__main__':
-    arguments_strIn = './images/sepideh_beach.mp4'
-    arguments_strOut = './results/sepideh_beach'
-    starter_zoom = 1.75
+    arguments_strIn = './images/input.mp4'
+    arguments_strOut = './results/output'
+    starter_zoom = 2
 
     clip_counter = 1
     clip_frame = 50
